@@ -1,5 +1,5 @@
 <p align="center"><a href="https://symfony.com" target="_blank">
-  <img src="https://symfony.com/logos/symfony_black_02.svg">
+  <img src="https://media1.tenor.com/m/ehQ-RukWBTAAAAAC/memes-goofy-ahh-pictures-memes2022funny.gif">
 </a></p>
 
 <h3 align="center">
